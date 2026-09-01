@@ -16,7 +16,7 @@ from aiohttp import web
 BOT_TOKEN = "8893896322:AAHTd9c9VNFkJ_TCYK3K6TKTFrCnQea_Pcg"
 ADMIN_ID = 715398229  
 # Сюда вставьте адрес вашего туннеля (например, "https://xxxx.tunnel.pyghood.to")
-WEB_APP_URL = "xposgovno-production.up.railway.app" 
+WEB_APP_URL = "https://xposgovno-production.up.railway.app" 
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
