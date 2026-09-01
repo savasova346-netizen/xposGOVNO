@@ -13,7 +13,7 @@ from aiogram.fsm.state import StatesGroup, State
 from aiohttp import web
 
 # --- НАСТРОЙКИ (Впишите свои данные) ---
-BOT_TOKEN = "8893896322:AAEAlGTU4Dr85Gu4i-d-p8S7iGVYaRXIvnY"
+BOT_TOKEN = "8893896322:AAHTd9c9VNFkJ_TCYK3K6TKTFrCnQea_Pcg"
 ADMIN_ID = 715398229  
 # Сюда вставьте адрес вашего туннеля (например, "https://xxxx.tunnel.pyghood.to")
 WEB_APP_URL = "xposgovno-production.up.railway.app" 
